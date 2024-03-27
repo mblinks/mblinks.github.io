@@ -2,7 +2,7 @@
 #### Technical Skills: Python, SQL, PowerBI, R
 
 ## Education
-Biochemistry, Ph.D | University of Ilorin (2018)
+Biochemistry, PhD. | University of Ilorin (2018)
 
 Biochemistry, M.Sc | University of Ilorin (2013)
 
