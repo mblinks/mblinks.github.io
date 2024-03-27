@@ -1,11 +1,6 @@
 # Bioinformatician/Data Scientist
 #### Technical Skills: Python, SQL, PowerBI, R
 
-
-# Data Scientist
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
 ## Education
 - Biochemistry, PhD. | University of Ilorin (2018)								       		
 - Biochemistry, M.Sc | University of Ilorin (2013)	 			        		
