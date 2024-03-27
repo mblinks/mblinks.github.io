@@ -45,7 +45,7 @@
 
 Developed a model for the prediction of active compounds against SARS coronavirus 3C-like protease. This data-driven approach led to the identification of 5 hit compounds with high binding affinity for SARS coronavirus 3C-like protease. The proposed model can be easily utilized to screen new compounds with potential therapeutic effect.
 
-![Lead Compounds](/assets/model.jpeg)
+![Lead Compounds](/assets/model.jpg)
 
 ## Publications
 1. Ishola, A.A., Adewole, K.E., Adebayo, J.O. and Balogun E.A. (2023). Potentials of Terpenoids as Inhibitors of Multiple Plasmodium falciparum Protein Drug Targets. Acta Parasitologica. https://doi.org/10.1007/s11686-023-00711-z
