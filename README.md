@@ -39,6 +39,14 @@
 - Performed complex lab tests and procedures on blood and other body fluids.
 - Attended medical and academic conferences.
 
+## Projects
+### QSAR modeling and pharmacoinformatics of SARS coronavirus 3C-like protease inhibitors
+[Publication](https://www.sciencedirect.com/science/article/pii/S0010482521002778?via%3Dihub)
+
+Developed a model for the prediction of active compounds against SARS coronavirus 3C-like protease. This data-driven approach led to the identification of 5 hit compounds with high binding affinity for SARS coronavirus 3C-like protease. The proposed model can be easily utilized to screen new compounds with potential therapeutic effect.
+
+![Lead Compounds](/assets/model.jpeg)
+
 ## Publications
 1. Ishola, A.A., Adewole, K.E., Adebayo, J.O. and Balogun E.A. (2023). Potentials of Terpenoids as Inhibitors of Multiple Plasmodium falciparum Protein Drug Targets. Acta Parasitologica. https://doi.org/10.1007/s11686-023-00711-z
 2. Femi-Olabisi, J. F., Ishola, A. A., & Olujimi, F. O. (2023). Effect of Parquetina nigrescens (Afzel.) Leaves on Letrozole-Induced PCOS in Rats: A Molecular Insight into Its Phytoconstituents. Applied Biochemistry and Biotechnology, 1-31. https://doi.org/10.1007/s12010-023-04537-3
